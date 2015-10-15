@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
    <widget xmlns   = "http://www.w3.org/ns/widgets" 
        xmlns:gap   = "http://phonegap.com/ns/1.0" 
-       id          = "com.chronicleconstruction.demo" 
+       id          = "CLUBOID APP" 
        versionCode = "2"  
        version     = "1.0.0" > 
 
  
-   <name>Chronicle construction prototype</name> 
+   <name>CLUBOID</name> 
 
  
     <description> 
-        This is the chronicle construction prototype app. A project journal and record keeper 
+       CLUBS APP CLIENT
     </description> 
 
  
-    <author email="iuriramalli@hotmail.com" href="turingrepublic.com"> 
-        Sergio Ramalli gomes 
+    <author email="cluboid@hotmail.com" href="www.cluboid.com"> 
+        CLUBOID 
  </author> 
 
  
